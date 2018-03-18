@@ -1,4 +1,3 @@
 DBRefFolders found in your dbp file
 Connect String: Data Source=(local);Initial Catalog=AdventureWorksDW2008R2;Integrated Security=True
 Provider: Microsoft SQL Server
-
